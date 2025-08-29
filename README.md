@@ -2,14 +2,6 @@
 
 This repository contains my work and learning journey through Modern C++ programming. The course focuses on C++14 and C++17, providing a comprehensive foundation in one of the most powerful and widely-used programming languages in the industry.
 
-## Why C++?
-
-C++ stands out as a prestigious and highly relevant programming language that has consistently ranked in the top 5 programming languages for nearly two decades. It powers many critical systems and software including:
-- Operating systems (Windows, Linux, MacOS)
-- Adobe products (Photoshop, Illustrator)
-- Database engines (MySQL, MongoDB)
-- And is used extensively by tech giants like Amazon, Apple, Microsoft, Google, and Facebook
-
 ## Course Overview
 
 This repository will contain code and projects covering:
@@ -35,7 +27,6 @@ This repository will contain code and projects covering:
 ## Technical Stack
 - Modern C++ (C++14 and C++17)
 - Visual Studio Code
-- Windows/Mac/Linux compatible
 
 ## Learning Objectives
 
